@@ -43,7 +43,7 @@ Here are 30 meaningful questions along with their SQL-based answers. These quest
 
 2. Open your preferred SQL database management tool (e.g., MySQL, PostgreSQL, SQLite).
 
-3. Import the dataset (`sales_data.sql`) into your database.
+3. Import the dataset (`automobile.csv`) into your database.
 
 4. Use the provided SQL questions and answers to conduct your analysis.
 
