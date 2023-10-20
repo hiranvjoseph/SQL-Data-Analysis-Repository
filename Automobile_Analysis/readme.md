@@ -1,6 +1,6 @@
-# Sales Data Analysis with SQL
+# Automobile Data Analysis with SQL
 
-Welcome to the Sales Data Analysis project! This repository contains a comprehensive SQL analysis of sales data. The dataset includes various attributes related to automobiles. In this README, you will find a dataset description, a list of 30 meaningful questions, and their SQL-based answers.
+Welcome to the Automobile Data Analysis project! This repository contains a comprehensive SQL analysis of Automobile data. The dataset includes various attributes related to automobiles. In this README, you will find a dataset description, a list of 30 meaningful questions, and their SQL-based answers.
 
 ## Dataset Description
 
