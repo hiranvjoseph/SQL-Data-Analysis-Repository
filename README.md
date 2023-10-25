@@ -1,5 +1,7 @@
 # SQL Data Analysis Repository
 
+![SQL Data Analysis Repository](http://incurs.us/sites/default/files/styles/max_2600x2600/public/2016-07/mysql-wallpaper-1.png?itok=GLltuHhe)
+
 Welcome to the SQL Data Analysis Repository! This repository hosts a collection of SQL scripts and queries for various data analysis tasks. These scripts are designed to help you analyze and gain insights from datasets related to automobiles, sales, and medicine. Below, you'll find a brief overview of the analysis projects available in this repository.
 
 ## Analysis Projects
